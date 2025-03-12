@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",  // Express.js for creating the server
-    "body-parser": "^1.19.0" // Body-parser to handle request bodies
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
   }
 }

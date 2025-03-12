@@ -1,5 +1,5 @@
 {
-  "name": "greenleaf-organics-server",
+  "name": "serverside1",
   "version": "1.0.0",
   "description": "Server for Greenleaf Organics signup and login",
   "main": "server.js",
